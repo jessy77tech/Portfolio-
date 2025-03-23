@@ -1,7 +1,7 @@
 Hi there, I'm Jessy KALANGA MBAY! 👋  
 
 👨‍💻 About Me
-I'm a passionate **Network Engineer** and **Frontend Developer** with a love for creating innovative solutions and beautiful designs. Whether configuring Cisco routers or developing dynamic web applications, I thrive on challenges and continuous learning.  
+I'm a passionate **Network Engineer** and **Fullstack Developer** with a love for creating innovative solutions and beautiful designs. Whether configuring Cisco routers or developing dynamic web applications, I thrive on challenges and continuous learning.  
 
 - 🌟 **Skills**: HTML5, CSS3, JavaScript, React, Git, Cisco Networking  
 - 🖌️ **Hobbies**: Painting and drawing portraits/landscapes  
